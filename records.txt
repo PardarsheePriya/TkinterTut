@@ -1,0 +1,2 @@
+('Pardarshee', '12345678890', 'Female', 'Cash', 1)
+('Aniket', '9870654321', 'Male', 'Card', 1)
