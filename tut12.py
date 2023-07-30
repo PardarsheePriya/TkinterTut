@@ -16,7 +16,7 @@ def myfunc():
 # mymenu.add_command(label="Exit", command=quit)
 
 dropmenu = Menu(root)
-m1 = Menu(dropmenu)
+m1 = Menu(dropmenu, tearoff=0)
 m1.add_command(label="New File", command=myfunc)
 m1.add_separator()
 m1.add_command(label="New Project", command=myfunc)
